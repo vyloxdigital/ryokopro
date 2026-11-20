@@ -1,0 +1,45 @@
+# Ryoko Pro
+
+> Ryoko Pro is a pocket-sized portable WiFi router with its own SIM card. The seller states it connects automatically to the closest tower across **133 countries** with **no roaming fees**, carries **up to 10 devices** at once, reaches **up to 150 Mb/s**, runs **up to 8 hours** per charge and recharges over USB-C with a cable supplied in the box. The included SIM arrives with **500MB** of data and can be topped up at any time; the order page advertises unlimited data at **$0.66 per day**. Three features are switchable from the device screen: an ad blocker (which also blocks known malware distribution sites and phishing domains, from a block list drawn from over two dozen hand-curated lists), a data saver, and content control — all applied at the router, so they cover every connected device. Setup is two buttons and a QR code. The promotion is **up to 70% off**; the device price itself is shown on the official checkout and is not quoted here. Returns: **60 days from receipt, for packages unopened and in original condition**, with the customer paying return shipping.
+
+A single page about Ryoko Pro written for buyers in the United States and last checked on 20 November 2026. Every product claim came from the official Ryoko Pro listing and order page; the return, refund and warranty terms came from the seller's own support documentation. It is not a review: no score, no star rating, no verdict. The three customer reviews shown on the page are the seller's own published material, reproduced and clearly labelled, not ratings issued here. Purchase links are paid affiliate links and the buyer's total is unaffected.
+
+## What a Ryoko Pro is
+
+- [What a Ryoko Pro is actually for](https://ryokopro.vercel.app/#why): Replacing two bad habits — paying a carrier to roam, and joining whatever open network is nearby.
+- [The Ryoko Pro by the numbers](https://ryokopro.vercel.app/#specs): 133 countries, 10 devices, 8 hours, 150 Mb/s, and what each figure means on a trip.
+- [Three Ryoko Pro features you switch on](https://ryokopro.vercel.app/#features): Ads Blocker, Data Saver and Content Control, applied at the router rather than per device.
+- [Ten devices on one Ryoko Pro](https://ryokopro.vercel.app/#devices): Why the ten-device ceiling is the specification that changes the arithmetic for families and working groups.
+- [The Ryoko Pro in the hand](https://ryokopro.vercel.app/#design): Pocket-sized, wire-free, two buttons, and a screen that reports the connection state in words.
+- [Ryoko Pro terms worth knowing](https://ryokopro.vercel.app/#words): Seven definitions including mobile hotspot, roaming, top-up, Mb/s, phishing domain and original condition.
+
+## Using a Ryoko Pro
+
+- [Starting a Ryoko Pro in three steps](https://ryokopro.vercel.app/#setup): Press the power button, scan the QR code with a camera, then browse.
+- [Eight hours from a Ryoko Pro charge](https://ryokopro.vercel.app/#battery): Up to eight hours per charge over USB-C, plus the warranty's exclusion of battery capacity loss over time.
+- [Where a Ryoko Pro works: 133 countries](https://ryokopro.vercel.app/#countries): The seven regions the listing names, and an honest note on what happens where there is no cellular coverage.
+- [How Ryoko Pro data actually works](https://ryokopro.vercel.app/#data): The SIM is included with 500MB, top-ups follow, and third-party SIMs void warranty cover.
+- [Six situations a Ryoko Pro is built for](https://ryokopro.vercel.app/#uses): International travel, weekend trips, public places, family, RVs and camping, remote work and conferences.
+- [Is a Ryoko Pro right for you?](https://ryokopro.vercel.app/#fit): Who the device suits, who it does not, and the arithmetic that settles it.
+
+## Cost, security and limits
+
+- [Ryoko Pro against a roaming bill](https://ryokopro.vercel.app/#roaming): FCC warnings on roaming rates, automatic background downloads, and charges that arrive a billing cycle late.
+- [Ryoko Pro and the public WiFi question](https://ryokopro.vercel.app/#security): What a private hotspot genuinely fixes, and the FTC's position that encryption, not the network, is what protects your traffic.
+- [What a Ryoko Pro will not do](https://ryokopro.vercel.app/#truth): It does not make signal, 500MB is a starter, it is not a VPN, "up to" means up to, and you cannot open it and return it.
+
+## Buying a Ryoko Pro
+
+- [Ryoko Pro pricing and the current discount](https://ryokopro.vercel.app/#price): Up to 70% off, $0.66 a day for unlimited data, what is in the box, and why no device price is quoted here.
+- [Ryoko Pro returns, refunds and warranty](https://ryokopro.vercel.app/#returns): Sixty days on unopened packages, customer-paid return postage, and the full list of warranty exclusions.
+- [Reaching Ryoko Pro support](https://ryokopro.vercel.app/#support): The published US telephone number +1 (443) 456-4433, a contact form and a support site.
+- [Ryoko Pro reviews published by the seller](https://ryokopro.vercel.app/#reviews): Three customer reviews reproduced from the official listing, labelled as the seller's own material.
+- [Ryoko Pro questions, answered from the listing](https://ryokopro.vercel.app/#faq): Ten questions answered from the official site, matching the FAQPage structured data on the page.
+
+## External references
+
+- [FCC: international roaming — using your mobile phone in other countries](https://www.fcc.gov/sites/default/files/international_roaming_-_using_your_mobile_phone_in_other_countries.pdf): Why roaming rates are higher abroad, how background downloads create charges, and the advice to use Wi-Fi spots.
+- [FTC: are public Wi-Fi networks safe?](https://consumer.ftc.gov/articles/are-public-wi-fi-networks-safe-what-you-need-to-know): The current position that widespread encryption makes public Wi-Fi usually safe, and what to check instead.
+- [FTC: tips on using VPN apps](https://www.ftc.gov/news-events/news/press-releases/2018/02/ftc-provides-tips-using-vpn-apps): What a VPN app can shield, and the four things to check before installing one.
+- [CISA: best practices for using public Wi-Fi](https://www.cisa.gov/resources-tools/resources/best-practices-using-public-wi-fi-tip-card): The warning that convenient public hotspots are not always secure.
+- [NSA: securing wireless devices in public settings](https://www.nsa.gov/Press-Room/Digital-Media-Center/Document-Gallery/igphoto/2002815141/): Guidance on identifying vulnerable public connections and the risk to data, credentials and devices.
