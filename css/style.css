@@ -225,6 +225,35 @@ li{margin:0 0 .5em}
   flex:0 0 auto}
 .sect--lit .pill{color:var(--void);background:var(--lime)}
 
+/* ---- 9b. Price ladder. Four quantities, the picked one inverted. ---- */
+.plans{max-width:66rem;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);
+  gap:1px;background:var(--line-d);border:1px solid var(--line-d);text-align:left}
+.plans > div{background:var(--panel);padding:1.5rem 1.3rem;display:flex;
+  flex-direction:column;gap:.55rem}
+.plans .qty{font-family:var(--display);font-size:.78rem;font-weight:600;
+  color:var(--dim-d);margin:0}
+.plans .each{font-family:var(--display);font-weight:680;color:var(--lime);
+  font-size:clamp(1.7rem,3.2vw,2.2rem);line-height:1;letter-spacing:-.035em;margin:0}
+.plans .each small{display:block;font-size:.74rem;font-weight:500;color:var(--dim-d);
+  letter-spacing:0;margin-top:.4rem}
+.plans .tot{margin:0;font-size:.96rem;max-width:none}
+.plans .was{text-decoration:line-through;color:var(--dim-d)}
+.plans .save{font-family:var(--display);font-weight:600;color:var(--lime);
+  font-size:.84rem;margin:0}
+.plans .go{margin-top:auto;text-align:center}
+.plans > div.best{background:var(--lime)}
+.plans > div.best .qty,.plans > div.best .each small{color:#2c5210}
+.plans > div.best .each,.plans > div.best .save{color:var(--void)}
+.plans > div.best .tot{color:#17300a}
+/* 4.24 against the lime fill fails AA at this size; #2c5210 gives 6.09. */
+.plans > div.best .was{color:#2c5210}
+.plans > div.best .go{background:var(--void);color:var(--lime);border-color:var(--void)}
+.sect--lit .plans{background:var(--line-l);border-color:var(--line-l)}
+.sect--lit .plans > div{background:var(--white)}
+.sect--lit .plans .each{color:var(--lime-d)}
+.sect--lit .plans .save{color:var(--lime-d)}
+.sect--lit .plans .qty,.sect--lit .plans .each small,.sect--lit .plans .was{color:#5d655c}
+
 /* ---- 10. Hairline row list ---- */
 .rows{border-top:1px solid var(--line-d);max-width:68rem;margin:0 auto;text-align:left}
 .rows > div{display:grid;grid-template-columns:16rem 1fr;gap:.9rem 2.6rem;
@@ -328,6 +357,7 @@ li{margin:0 0 .5em}
    Variant overrides sit LAST and at matching-or-higher specificity, so no
    base rule can out-rank a mobile override. */
 @media (max-width:980px){
+  .plans{grid-template-columns:repeat(2,1fr)}
   .meter > div{grid-template-columns:9rem 1fr;gap:.5rem 1.4rem}
   .rows > div{grid-template-columns:11rem 1fr}
   .shots{gap:.8rem}
@@ -359,6 +389,7 @@ li{margin:0 0 .5em}
   .num{font-size:1.7rem}
 
   .shots{grid-template-columns:1fr;gap:1.4rem;max-width:26rem}
+  .plans{grid-template-columns:1fr;max-width:28rem}
 
   .end .hold{grid-template-columns:1fr;gap:1.9rem}
 
